@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34848410598",
+    "project_id": "image-location-tracking-8801e",
+    "storage_bucket": "image-location-tracking-8801e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34848410598:android:7ef112271cca30f3fd2427",
+        "android_client_info": {
+          "package_name": "com.example.image_location_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeeI6rKtxs61iJUq_1njI0tGtSp2CB2qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
